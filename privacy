@@ -1,0 +1,7 @@
+# Privacy Policy for FormSync (Development Version)
+
+This application is currently under development. A formal privacy policy will be provided upon public release.
+
+At this stage, any user data accessed (e.g., Notion workspace information, email address for authentication) is used solely for the purpose of testing and enabling the core functionality of connecting forms to Notion databases during the development phase. We do not store Notion access tokens beyond what's necessary for the OAuth flow and API interaction, and these are encrypted. Form submission data is sent directly to your Notion and is not stored by FormSync.
+
+Contact: [jn@sagapeak.group or GitHub Profile Link]
